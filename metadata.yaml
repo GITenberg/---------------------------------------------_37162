@@ -1,0 +1,34 @@
+_repo: '---------------------------------------------_37162'
+_version: 0.1.0
+alternative_title: General Georgios Karaiskakis' Biography
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ainian, Demetrios
+    aliases:
+    - Αινιάν, Δημήτριος
+    - Ainian, D. (Demetrios)
+    - Ainian, Dimitrios
+    birthdate: 1800
+    deathdate: 1881
+    gutenberg_agent_id: '38686'
+    url: http://www.gutenberg.org/2009/agents/38686
+    wikipedia: http://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82_%CE%91%CE%B9%CE%BD%CE%B9%CE%AC%CE%BD
+description: ''
+gutenberg_issued: '2011-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37162'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Karaiskakes, Georgios, 1780-1827'
+- !lcsh 'Greece -- History -- War of Independence, 1821-1829'
+- !lcc 'DF'
+- !lcsh 'Generals -- Greece -- Biography'
+title: Η Βιογραφία του στρατηγού Γεωργίου Καραϊσκάκη
+url: http://www.gutenberg.org/ebooks/37162
